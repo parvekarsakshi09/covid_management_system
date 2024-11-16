@@ -1,0 +1,2 @@
+1,sakshi,12,pbn,cough,positivee,no
+2,sakshi,22,pune,fever,negative,yes
